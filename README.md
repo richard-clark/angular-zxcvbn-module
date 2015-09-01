@@ -43,3 +43,7 @@ angular.module('controllers', [])
     });
   });
 ```
+
+## License
+
+Code released under the [MIT license](https://github.com/richard-clark/angular-zxcvbn-module/blob/master/LICENSE.md).
