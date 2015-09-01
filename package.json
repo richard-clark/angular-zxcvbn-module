@@ -17,5 +17,9 @@
   "devDependencies": {
     "browserify": "^11.0.1",
     "zxcvbn": "3.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richard-clark/angular-zxcvbn-module.git"
   }
 }

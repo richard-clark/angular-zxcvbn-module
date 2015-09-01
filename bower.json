@@ -16,5 +16,9 @@
   "ignore": [
     "**/.*",
     "node_modules"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/richard-clark/angular-zxcvbn-module.git"
+  }
 }
