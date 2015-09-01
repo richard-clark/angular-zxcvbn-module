@@ -13,7 +13,7 @@
     "strength"
   ],
   "author": "Richard Clark",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "browserify": "^11.0.1",
     "zxcvbn": "3.2.2"
