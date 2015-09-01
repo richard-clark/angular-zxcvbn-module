@@ -16,6 +16,17 @@ Using ``bower``:
 bower install --save angular-zxcvbn-module
 ```
 
+## Building
+
+This releases uses version 3.2.2 of zxcvbn.
+
+To use a different release, update ``package.json`` with the appropriate version, and run:
+
+```bash
+npm install
+npm run build
+```
+
 ## Usage
 
 Watch a ``$scope`` variable named password and sets the ``passwordStrength`` ``$scope`` property whenever the password changes:

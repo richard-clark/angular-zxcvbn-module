@@ -1,21 +1,20 @@
 {
   "name": "angular-zxcvbn-module",
-  "version": "1.0.0",
-  "description": "Provides an Angular wrapper around zxcvbn without dumping zxcvbn into the global scope.",
   "main": "index.js",
-  "scripts": {
-    "build": "browserify index.js -o angular-zxcvbn-module.js"
-  },
+  "version": "1.0.0",
+  "authors": [
+    "Richard Clark"
+  ],
+  "description": "Provides an Angular wrapper around zxcvbn without dumping zxcvbn into the global scope.",
   "keywords": [
     "angular",
     "zxcvbn",
     "password",
     "strength"
   ],
-  "author": "Richard Clark",
-  "license": "ISC",
-  "devDependencies": {
-    "browserify": "^11.0.1",
-    "zxcvbn": "3.2.2"
-  }
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules"
+  ]
 }
