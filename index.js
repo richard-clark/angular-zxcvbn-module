@@ -1,3 +1,3 @@
 (function() {
-  angular.module("zxcvbn", []).value("zxcvbn", require("zxcvbn"));
+  angular.module("angular-zxcvbn-module", []).value("zxcvbn", require("zxcvbn"));
 }).call(this);

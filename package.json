@@ -6,6 +6,12 @@
   "scripts": {
     "install": "browserify index.js -o angular-zxcvbn-module.js"
   },
+  "keywords": [
+    "angular",
+    "zxcvbn",
+    "password",
+    "strength"
+  ],
   "author": "Richard Clark",
   "license": "ISC",
   "dependencies": {
